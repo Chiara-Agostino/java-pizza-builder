@@ -27,10 +27,11 @@
 
 ## Application Screenshot
 
-![Pizza Builder Application](screenshots/pizza-builder.png)
+![Pizza Builder Opening screen](Pizza-builder.png)
 
 - Opening Screen: The main interface displays the pizza with a dropdown menu for selecting toppings and buttons to clear or randomly generate a pizza.
 
-![Random pizza feature](screenshots/Random-pizza.png)
+![Random pizza feature](Random-pizza.png)
 
-- Adding Toppings: Users can select their preferred topping from the dropdown menu and click anywhere inside the pizza to place it, allowing them to customize their pizza interactively.
+- Adding Toppings: Users can select their preferred topping from the dropdown menu and click anywhere inside the pizza to place it, allowing them to customize their pizza interactively. They also have the option to click the 'Random pizza' button which will generate a pizza with assorted toppings.
+
